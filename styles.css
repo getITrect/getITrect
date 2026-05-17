@@ -150,6 +150,12 @@ nav a:hover {
   margin-right: 0;
 }
 
+.about_right li {
+  text-align: right;
+  list-style-position: inside; /* Keeps bullets next to the text on the right */
+  margin-left: auto;
+  margin-right: 0;
+}
 
 /* Footer */
 .footer {
