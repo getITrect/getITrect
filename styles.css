@@ -140,6 +140,7 @@ nav a:hover {
 .about_right p {
   color: #a1a1aa;
   max-width: 700px;
+  text-align: right;
 }
 
 .about_right ul {
