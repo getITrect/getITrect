@@ -154,6 +154,7 @@ nav a:hover {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  color: #1f1f23;
 }
 
 .footer-links a {
