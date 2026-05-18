@@ -170,12 +170,12 @@ nav a:hover {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  color: #2f2f23;
+  color: #a1a1aa;
 }
 
 .footer-links a {
   display: block;
-  color: #2f2f23;
+  color: #a1a1aa;
   text-decoration: none;
   margin-bottom: 8px;
 }
